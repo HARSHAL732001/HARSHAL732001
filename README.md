@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal Thakare</h1>
 <h3 align="center">A passionate Cloud Engineer and DevOps enthusiast by heart...</h3>
-# 💫 About Me:
+# About Me:
 ◾ I'm currently pursuing my Bachelor of Engineering in Information Technology.<br>◾ A passionate Cloud Engineer and DevOps enthusiast by heart... <br>◾ 📫 How to reach me **harshthakare70@gmail.com**
 
 
