@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cloud Engineer and DevOps enthusiast by heart...</h3>
 
 ## About Me:
-<br>◾ I'm currently pursuing my Bachelor of Engineering in Information Technology.<br>◾ A passionate Cloud Engineer and DevOps enthusiast by heart... <br>◾ 📫 How to reach me **harshthakare70@gmail.com**
+<br>◾ I'm currently pursuing my Bachelor of Engineering in Information Technology.<br>◾ A passionate OpenShift Engineer and DevOps enthusiast by heart... <br>◾ 📫 How to reach me **harshthakare70@gmail.com**
 
 
 ## 🌐 Socials:
@@ -24,7 +24,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=HARSHAL732001&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📃Certifications
+◾ RED HAT CERTIFIED OPENSHIFT ADMINISTRATOR .<br>
+◾ RED HAT CERTIFIED SYSTEM ADMINISTRATOR .<br>
 ◾ RED HAT CERTIFIED SPECIALIST IN CONTAINERS AND KUBERNETES .<br>
+◾ RED HAT CERTIFIED SPECIALIST IN OPENSHIFT AI .<br>
 ◾ RED HAT CERTIFIED ENGINEER WITH WITH ANSIBLE .<br>
 ◾ AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE (EXAM READINESS DIGITAL).<br>
 ◾ GOOGLE CLOUD CERTIFIED ASSOCIATE CLOUD ENGINEER (ACE)<br>
