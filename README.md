@@ -1,34 +1,183 @@
 <h1 align="center">Hi 👋, I'm Harshal Thakare</h1>
-<h3 align="center">A passionate OpenShift Engineer and DevOps enthusiast by heart...</h3>
 
-## About Me:
-<br>◾ I'm currently pursuing my Bachelor of Engineering in Information Technology.<br>◾ A passionate OpenShift Engineer and DevOps enthusiast by heart... <br>◾ 📫 How to reach me **harshthakare70@gmail.com**
+<h3 align="center">
+Site Reliability Engineer | OpenShift & Kubernetes Specialist | DevOps & Cloud Enthusiast
+</h3>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-thakare) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harshthakare70) 
+# 👨‍💻 About Me
 
-# 💻 Tech Stack:
-## DevOps 
-![OpenShift](https://img.shields.io/badge/OpenShift%20-C71A36?style=for-the-badge&logo=OpenShifte%20OpenShift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+🚀 Red Hat OpenShift Technical Support Engineer with 3+ years of experience helping enterprise customers run mission-critical Kubernetes platforms.
 
-## ☁Cloud 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HARSHAL732001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HARSHAL732001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAL732001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💡 Passionate about:
+- Kubernetes & OpenShift
+- Site Reliability Engineering (SRE)
+- Cloud Infrastructure
+- Production Incident Management
+- Automation
+- Platform Engineering
+- Linux
+- Observability
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HARSHAL732001&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+🔹 Experienced in troubleshooting complex production issues involving:
 
-## 📃Certifications
-◾ RED HAT CERTIFIED OPENSHIFT ADMINISTRATOR .<br>
-◾ RED HAT CERTIFIED SYSTEM ADMINISTRATOR .<br>
-◾ RED HAT CERTIFIED SPECIALIST IN CONTAINERS AND KUBERNETES .<br>
-◾ RED HAT CERTIFIED SPECIALIST IN OPENSHIFT AI .<br>
-◾ RED HAT CERTIFIED ENGINEER WITH WITH ANSIBLE .<br>
-◾ AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE (EXAM READINESS DIGITAL).<br>
-◾ GOOGLE CLOUD CERTIFIED ASSOCIATE CLOUD ENGINEER (ACE)<br>
+- Kubernetes
+- OpenShift
+- Operators (OLM)
+- Monitoring Stack
+- Machine Config Operator
+- Networking
+- OpenShift Virtualization
+- OpenShift AI
+- IBM Fusion
+- ACM
+- Cluster Upgrades
+
+🔹 Strong believer in Automation, Reliability and Continuous Learning.
+
+📫 Reach me at
+
+**harshthakare70@gmail.com**
+
+---
+
+# 💼 Professional Experience
+
+## Red Hat — Technical Support Engineer (OpenShift)
+
+Working with enterprise customers to troubleshoot and resolve production-critical issues across OpenShift clusters.
+
+### Areas I've worked on
+
+✅ Kubernetes
+
+✅ OpenShift
+
+✅ OpenShift Virtualization
+
+✅ OpenShift AI
+
+✅ Advanced Cluster Management (ACM)
+
+✅ IBM Fusion
+
+✅ Operators & OLM
+
+✅ Machine Config Pools
+
+✅ Cluster Upgrades
+
+✅ Monitoring & Alerting
+
+✅ Networking
+
+✅ Storage
+
+✅ Linux
+
+### Responsibilities
+
+- Production Incident Management
+- Root Cause Analysis (RCA)
+- Cluster Troubleshooting
+- Customer Escalation Handling
+- Engineering Collaboration
+- Bug Verification
+- KCS Authoring
+- Performance Troubleshooting
+- Log Analysis
+- Remote Debugging
+- Automation
+
+---
+
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-thakare)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshthakare70)
+
+---
+
+# 💻 Tech Stack
+
+## Containers & Orchestration
+
+![OpenShift](https://img.shields.io/badge/OpenShift-C71A36?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## DevOps
+
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HARSHAL732001&theme=github_dark&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HARSHAL732001&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAL732001&layout=compact&theme=github_dark)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=HARSHAL732001&theme=algolia&margin-w=10)
+
+---
+
+# 📜 Certifications
+
+🏅 Red Hat Certified OpenShift Administrator (EX280)
+
+🏅 Red Hat Certified Engineer (RHCE)
+
+🏅 Red Hat Certified System Administrator (RHCSA)
+
+🏅 Red Hat Certified Specialist in Containers & Kubernetes
+
+🏅 Red Hat Certified Specialist in OpenShift AI
+
+🏅 AWS Certified Solutions Architect – Associate (Exam Readiness)
+
+🏅 Google Cloud Certified Associate Cloud Engineer
+
+---
+
+⭐ *"Building reliable systems, automating operations, and solving complex production problems one incident at a time."*
